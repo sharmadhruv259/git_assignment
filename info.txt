@@ -1,0 +1,1 @@
+Git is useful beacuse it track down every change made to files and projects and allowing multiple people to work on the same code base simultaneously.
